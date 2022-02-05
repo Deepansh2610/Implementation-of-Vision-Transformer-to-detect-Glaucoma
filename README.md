@@ -1,1 +1,2 @@
 # Implementation-of-Vision-Transformer-to-detect-Glaucoma
+In this project I have used the new technology of Vision Transformers to detect Glaucoma which is an eye condition in patients. Transformers where 1st intoduced by the paper 'Attention is all you need';https://arxiv.org/abs/1706.03762, then afterwards a more advanced paper using Vision Transformer named 'An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale'; https://arxiv.org/abs/2010.11929 was introduced to implement 'Vision Transformers' for classification tasks.
